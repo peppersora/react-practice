@@ -1,12 +1,7 @@
-import Counter from "./Counter";
-import EventPractice from "./EventPractice";
-import Say from "./Say";
 
-const App = () => {
-  return(
-    <EventPractice/>
-  ); 
-  
-};
+import Iteration from "./Iteration";
 
+function App() {
+  return<Iteration/>
+}
 export default App;
