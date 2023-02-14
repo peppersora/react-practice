@@ -25,13 +25,8 @@ class Counter extends Component {
                     console.log(this.state);
                 }
                );
-            //    첫번째 함수
-             
-
-            //    두번째 함수
-            // 첫번째 함수를 바로 객체로 반환했기때문에({})로 표현했다.
             }
-            // onclick 함수
+           
         }
              >
                 +1
