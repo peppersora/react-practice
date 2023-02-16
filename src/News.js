@@ -1,3 +1,4 @@
+// 각 뉴스의 정보를 보여주는 component = newsItem
 import propTypes from "prop-types";
 import styled from "styled-components";
 function News({article}) {
